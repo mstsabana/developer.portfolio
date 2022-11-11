@@ -43,3 +43,26 @@ section {
     background-image: url(images/top-banner.png );
     background-repeat: no-repeat;
 }
+
+.dream-big {
+    width: 100%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.sabana-img {
+    background-color: orange;
+    width: 700px;
+    height: 450px;
+    border-radius: 50%;
+}
+
+.sabana-img img {
+    margin-left: 50px;
+    border-radius: 0% 30% 0% 20%;
+    height: 400px;
+    width: 400;
+
+}
